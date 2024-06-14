@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharp_Practice.LeetCodeSolutions._06_15_2024
+namespace CSharp_Practice.LeetCodeSolutions._06_14_2024
 {
     public class ValidAnagram
     {
