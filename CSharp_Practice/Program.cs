@@ -2,11 +2,11 @@
 
 namespace CSharp_Practice
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Welcome to C#...");
+            
         }
     }
 }
