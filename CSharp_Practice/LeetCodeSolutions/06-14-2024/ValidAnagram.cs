@@ -1,4 +1,24 @@
-﻿using System;
+﻿/*
+
+Valid Anagram
+
+Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
+An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+ 
+Example 1:
+Input: s = "anagram", t = "nagaram"
+Output: true
+
+Example 2:
+Input: s = "rat", t = "car"
+Output: false
+
+*/
+
+
+using System;
 
 namespace CSharp_Practice.LeetCodeSolutions._06_14_2024
 {
@@ -44,7 +64,7 @@ namespace CSharp_Practice.LeetCodeSolutions._06_14_2024
             return true;
         }
 
-        public static void Main()
+        public static void Main(string[] args)
         {
             string s = "anagram";
             string t = "nagaram";
