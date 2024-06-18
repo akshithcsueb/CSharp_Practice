@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharp_Practice.LeetCodeSolutions._06_17_2024.SubSequence</StartupObject>
+    <StartupObject>CSharp_Practice.LeetCodeSolutions._06_18_2024.PrefixOfGivenString</StartupObject>
   </PropertyGroup>
 
 </Project>
