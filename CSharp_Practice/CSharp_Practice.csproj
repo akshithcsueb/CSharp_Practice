@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharp_Practice.LeetCodeSolutions._06_19_2024.FindThePeaks</StartupObject>
+    <StartupObject>CSharp_Practice.LeetCodeSolutions._06_20_2024.LemonadeChange</StartupObject>
   </PropertyGroup>
 
 </Project>
