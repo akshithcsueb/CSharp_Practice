@@ -6,7 +6,7 @@ namespace CSharp_Practice
     {
         public static void Main(string[] args)
         {
-
+            
         }
     }
 }

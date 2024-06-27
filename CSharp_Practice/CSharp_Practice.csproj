@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharp_Practice.LeetCodeSolutions._06_25_2024.CountWordsWithPrefix</StartupObject>
+    <StartupObject>CSharp_Practice.DSA.LinkedList.DoublyCircularLinkedList</StartupObject>
   </PropertyGroup>
 
 </Project>
