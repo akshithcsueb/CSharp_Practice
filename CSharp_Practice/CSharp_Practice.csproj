@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharp_Practice.LeetCodeSolutions._06_26_2024.MissingNumber</StartupObject>
+    <StartupObject>CSharp_Practice.LeetCodeSolutions._06_27_2024.SortArrayByParity</StartupObject>
   </PropertyGroup>
 
 </Project>
